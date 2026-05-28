@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: bms-container
-        image: mybmsimage  # Replace with your Docker image
+        image: ashnakhanna100188/mybmsimage  # Replace with your Docker image
         ports:
         - containerPort: 3000  # Replace with the port your app runs on
